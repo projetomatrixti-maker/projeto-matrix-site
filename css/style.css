@@ -2017,7 +2017,7 @@ section {
 
 .copy-btn:hover,
 .btn-link:hover {
-  background-color: var(--color-white);
+  background-color: #e95021b0;
 }
 
 .inspiration-carousel {
