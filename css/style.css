@@ -1212,30 +1212,6 @@ section {
   }
 }
 
-/* Responsividade (Mobile) */
-@media (max-width: 768px) {
-  .site-footer {
-    padding: 3rem 0 2rem;
-  }
-  .footer-grid {
-    grid-template-columns: 1fr;
-    gap: 2.5rem;
-    text-align: center;
-  }
-  .footer-large-logo {
-    display: none;
-  } /* Oculta logo decorativa no mobile */
-  .social-links {
-    justify-content: center;
-  }
-  .footer-contact li {
-    justify-content: center;
-  }
-  .brand-description {
-    margin: 1rem auto;
-  }
-}
-
 /* ============================================
    BOTÃO WHATSAPP FLUTUANTE
    ============================================ */
