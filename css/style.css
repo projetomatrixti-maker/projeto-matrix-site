@@ -1275,24 +1275,19 @@ section {
 }
 
 .page-hero-historia {
-  background-image: url("../assets/images/nossa-historia.jpg");
+  background-image: url("../assets/images/nossa-historia-1600.webp");
 }
 
 .page-hero-projetos {
-  background-image: url("../assets/images/imagem-grande.jpg");
+  background-image: url("../assets/images/projetos-1600.webp");
 }
 
 .page-hero-faca-parte {
-  background-image: url("../assets/images/facaparte.jpg");
+  background-image: url("../assets/images/facaparte-1600.webp");
 }
 
 .page-hero-transparencia {
-  background-image: url("../assets/images/transparencia.jpg");
-}
-
-.hero-subtitle {
-  font-size: 1.25rem;
-  opacity: 0.9;
+  background-image: url("../assets/images/transparencia-1600.webp");
 }
 
 /* ============================================
