@@ -715,3 +715,39 @@ img {
     background-image: url("../assets/images/transparencia-600.webp");
   }
 }
+
+@media (max-width: 766px) {
+  .container h2,
+  .container-about h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
+  .container p {
+    font-size: 1rem;
+  }
+
+  .slide-content h1 {
+    font-size: 2rem;
+  }
+
+  .titulo-historia,
+  .titulo-faca-parte,
+  .titulo-projetos,
+  .titulo-transparencia {
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: 766px) and (max-width: 1300px) {
+  .slide-content p,
+  .nossa-historia p,
+  .nossos-projetos p,
+  .transparencia p,
+  .faca-parte p {
+    font-size: 1.3rem;
+  }
+}
